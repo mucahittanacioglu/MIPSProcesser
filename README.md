@@ -1,2 +1,2 @@
 # MIPSProcesser
-mips project
+Simple Single cycle processer for some of the MIPS ISA
